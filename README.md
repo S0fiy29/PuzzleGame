@@ -1,2 +1,2 @@
 # PuzzleGame
-- A final year project about develop a puzzle game with a few algorithms.
+- A final-year project about developing a puzzle game with a few algorithms.
